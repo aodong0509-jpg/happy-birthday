@@ -2,10 +2,10 @@
   "greeting": "Hello",
   "name": "小虎",
   "greetingText": "很高兴认识你",
-  "wishText": "在土耳其语中：“祝你生日快乐”是“iyi ki doğdun” ",
+  "wishText": "希望你的生日勇敢、自由” ",
   "imagePath": "img/lydia2.png",
-  "text1": "这句话直译的意思是“幸好你出生了”",
-  "textInChatBox": "谢谢你来到这世上",
+  "text1": "在土耳其语中:“祝你生日快乐”是“iyi ki doydun”",
+  "textInChatBox": "这句话直译是“谢谢你来到这世上”",
   "sendButtonLabel": "Send",
   "text2": "你的存在对我而言就是礼物",
   "text3": "谢谢你，以存在创造的每一个节日",
@@ -17,7 +17,7 @@
   "bigTextPart1": "所",
   "bigTextPart2": "以",
   "wishHeading": "再次祝福你，生日快乐!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
-  "replayText": "Or click, if you want to watch it again.",
+  "outroText": "如果你喜欢这个网页，可以亲我一口",
+  "replayText": "也可以点击，再看一遍",
   "outroSmiley": ":)"
 }
